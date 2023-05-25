@@ -26,9 +26,9 @@ function reportSections(conf) {
   let ctx = { snapshot: useEvent('snapshot'), cumulative: useEvent('cumulative') }
 
   for (let i = 0; i < conf.length; i++) {
-    if (conf[i].event != 'snapshot') {
-      continue
-    }
+    // if (conf[i].event != 'snapshot') {
+    //   continue
+    // }
 
     all.push(
       <MetricsContext.Provider key={i} value={ctx[conf[i].event]}>
