@@ -5,8 +5,8 @@
 package dashboard
 
 import (
-	"github.com/szkiba/xk6-dashboard/dashboard"
-	"github.com/szkiba/xk6-dashboard/ui"
+	"github.com/cwilso03/xk6-dashboard/dashboard"
+	"github.com/cwilso03/xk6-dashboard/ui"
 	"go.k6.io/k6/output"
 )
 

@@ -14,7 +14,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
-	"github.com/szkiba/xk6-dashboard/ui"
+	"github.com/cwilso03/xk6-dashboard/ui"
 )
 
 func Test_newWebServer(t *testing.T) {

@@ -1,5 +1,5 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/szkiba/xk6-dashboard)](https://goreportcard.com/report/github.com/szkiba/xk6-dashboard)
-[![GitHub Actions](https://github.com/szkiba/xk6-dashboard/workflows/Test/badge.svg)](https://github.com/szkiba/xk6-dashboard/actions?query=workflow%3ATest+branch%3Amaster)
+[![Go Report Card](https://goreportcard.com/badge/github.com/cwilso03/xk6-dashboard)](https://goreportcard.com/report/github.com/cwilso03/xk6-dashboard)
+[![GitHub Actions](https://github.com/cwilso03/xk6-dashboard/workflows/Test/badge.svg)](https://github.com/cwilso03/xk6-dashboard/actions?query=workflow%3ATest+branch%3Amaster)
 [![codecov](https://codecov.io/gh/szkiba/xk6-dashboard/branch/master/graph/badge.svg?token=ORDNEEZIV3)](https://codecov.io/gh/szkiba/xk6-dashboard)
 
 
@@ -65,7 +65,7 @@ See [sample PDF report](screenshot/k6-dashboard-report.pdf)
 
 ## Download
 
-You can download pre-built k6 binaries from [Releases](https://github.com/szkiba/xk6-dashboard/releases/) page. Check [Packages](https://github.com/szkiba/xk6-dashboard/pkgs/container/xk6-dashboard) page for pre-built k6 Docker images.
+You can download pre-built k6 binaries from [Releases](https://github.com/cwilso03/xk6-dashboard/releases/) page. Check [Packages](https://github.com/cwilso03/xk6-dashboard/pkgs/container/xk6-dashboard) page for pre-built k6 Docker images.
 
 ## Build
 
@@ -83,7 +83,7 @@ Then:
 
 2. Build the binary:
   ```bash
-  $ xk6 build --with github.com/szkiba/xk6-dashboard@latest
+  $ xk6 build --with github.com/cwilso03/xk6-dashboard@latest
   ```
 
 ## Usage

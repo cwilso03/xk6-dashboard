@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT
 
-module github.com/szkiba/xk6-mock/magefiles
+module github.com/cwilso03/xk6-mock/magefiles
 
 go 1.18
 
